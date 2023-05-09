@@ -20,6 +20,7 @@ const NavLinks = ({ extraClassName }) => {
             <li className="dropdown"><Link href="/page-about">Blog</Link>
                 <ul>
                 <li><Link href="/page-team">Team</Link></li>
+                <li><Link href="/page-gallery">Gallery</Link></li>
                     <li><Link href="/page-testimonial">Testimonial</Link></li>
                     {/* <li><Link href="/page-pricing">Pricing</Link></li> */}
                     <li><Link href="/news-grid">All Events</Link></li>

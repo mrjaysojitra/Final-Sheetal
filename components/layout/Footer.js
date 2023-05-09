@@ -28,7 +28,7 @@ const Footer = () => {
                                 <div className="footer-widget">
                                     <h4 className="widget-title">Explore</h4>
                                     <ul className="user-links">
-                                        <li><Link href="#">Gallery</Link></li>
+                                        <li><Link href="/page-gallery">Gallery</Link></li>
                                         <li><Link href="#">News &amp; Articles</Link></li>
                                         <li><Link href="/page-faq">FAQ's</Link></li>
                                         <li><Link href="/page-login">Sign In/Registration</Link></li>

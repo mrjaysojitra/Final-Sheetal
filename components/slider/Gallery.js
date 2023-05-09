@@ -1,3 +1,4 @@
+import { Card } from '@mui/material';
 import Link from 'next/link';
 import React from 'react';
 import SwiperCore, { Autoplay, Navigation } from "swiper";
@@ -17,20 +18,20 @@ const Gallery = () => {
             img: "gallery-3.jpg",
         },
         {
-            img: "gallery-1.jpg",
+            img: "gallery-4.jpg",
         },
         {
-            img: "gallery-2.jpg",
+            img: "gallery-5.jpg",
         },
         {
-            img: "gallery-3.jpg",
+            img: "gallery-6.jpg",
         }
     ];
 
 
     return (
         <>
-            <Swiper
+            {/* <Swiper
                 slidesPerView={4}
                 spaceBetween={30}
                 loop={true}
@@ -72,16 +73,32 @@ const Gallery = () => {
             >
                 {data.map((item, i) => (
                     <SwiperSlide>
-                        <div className="gallery-item">
+                        <div className="gallery-item my-5 rounded-2">
                             <a href="#" className="lightbox-image">
                                 <img src={`images/resource/${item.img}`} title="Shital" />
                             </a>
                         </div>
                     </SwiperSlide>
                 ))}
-            </Swiper>
+            </Swiper> */}
+            <div className='container py-4'>
+                <div className='row'>
+                    {
+                        data.map((item, i) => {
+                            return (
+                                <div className='col-lg-4 gallery-item col-sm-6' >
+                                    <div class=" text-center">
+                                        <div class="card-body">
+                                            <img src={`images/resource/${item.img}`} title="Shital" width={300} />
+                                        </div>
+                                    </div>
+                                </div>
+                            )
+                        })
+                    }
 
-
+                </div>
+            </div>
 
         </>
     );

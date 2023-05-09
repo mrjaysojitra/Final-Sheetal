@@ -12,14 +12,35 @@ const NewsOne = () => {
         },
         {
             img: "news-2.jpg",
-            title: "Republic Day celebration was done by wearing a traditional dress,a patriotic feeling for being an Proud Indian",
+            title: "A Womens Day celebration done enthusiastically by a staff members having a get-together",
             comment: 10,
             date: "08",
             month: "Mar"
         },
         {
             img: "news-3.jpg",
-            title: "Republic Day celebration was done by wearing a traditional dress,a patriotic feeling for being an Proud Indian",
+            title: "Research shows that Games allows students to experiment through trial-error,find solutions and build confidence.",
+            comment: 10,
+            date: "10",
+            month: "Feb"
+        },
+        {
+            img: "news-4.jpg",
+            title: "Teacher's Day was celebrated to enhance the skills of students and uplift their confidence.",
+            comment: 10,
+            date: "05",
+            month: "Sep"
+        },
+        {
+            img: "news-5.jpg",
+            title: "Role-play provide real world scenarios to help students learn.It provide opportunities for critical observation of peers.",
+            comment: 10,
+            date: "20",
+            month: "Mar"
+        },
+        {
+            img: "news-6.jpg",
+            title: "Group Discussions and team activities done right to enhance the communication skills amongst students",
             comment: 10,
             date: "09",
             month: "Jul"

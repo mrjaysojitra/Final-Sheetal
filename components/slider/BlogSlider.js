@@ -14,12 +14,12 @@ const BlogSlider = () => {
         },
         {
             img: "news-2.jpg",
-            title: "Republic Day celebration was done by wearing a traditional dress,a patriotic feeling for being an Proud Indian",
+            title: "A Womens Day celebration done enthusiastically by a staff members having a get-together",
             comment: 10
         },
         {
             img: "news-3.jpg",
-            title: "Republic Day celebration was done by wearing a traditional dress,a patriotic feeling for being an Proud Indian",
+            title: "Research shows that Games allows students to experiment through trial-error,find solutions and build confidence.",
             comment: 10
         }
     ];

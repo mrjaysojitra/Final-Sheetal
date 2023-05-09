@@ -42,8 +42,8 @@ const PopularCourses = ({ alternate }) => {
             id: "tally",
             img: "course-4.jpg",
             title: "Tally",
-            lesson: 75,
-            students: "1200 +",
+            lesson: "1200 +",
+            students: 25,
             rating:  "(7 / 8)",
             duration: "3 Months"
         },

@@ -19,10 +19,10 @@ const NewsOne = () => {
         },
         {
             img: "news-3.jpg",
-            title: "Group Discussions and team activities done right to enhance the communication skills amongst students",
+            title: "Research shows that Games allows students to experiment through trial-error,find solutions and build confidence.",
             comment: 10,
-            date: "09",
-            month: "Jul"
+            date: "10",
+            month: "Feb"
         }
     ];
     return (

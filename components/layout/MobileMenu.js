@@ -64,6 +64,7 @@ const MobileMenu = ({handleRemove}) => {
                     <ul className={isActive.key === 2 ? "d-block" : "d-none"}>
                         
                         <li><Link href="/page-team" onClick={handleRemove}>Team</Link></li>
+                        <li><Link href="/page-gallery"  onClick={handleRemove}>Gallery</Link></li>
                         <li><Link href="/page-testimonial" onClick={handleRemove}>Testimonial</Link></li>
                         <li><Link href="/news-grid" onClick={handleRemove}>All Events</Link></li>
                         {/* <li><Link href="/page-pricing">Pricing</Link></li> */}

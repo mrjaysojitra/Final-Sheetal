@@ -5708,12 +5708,12 @@ Section Title
   opacity: 0;
   visibility: hidden;
 }
-.gallery-item a:hover:before {
+/* .gallery-item a:hover:before {
   -webkit-transform: scale(1);
           transform: scale(1);
   opacity: 1;
   visibility: visible;
-}
+} */
 .gallery-item:hover img {
   opacity: 1;
   -webkit-transform: scale(1.1);
