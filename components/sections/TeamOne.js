@@ -28,8 +28,8 @@ const TeamOne = () => {
             <section className="team-section">
                 <div className="auto-container">
                     <div className="sec-title text-center">
-                        <span className="sub-title">qualified teachers</span>
-                        <h2>Meet the teacher who <br />teaches you</h2>
+                        <span className="sub-title">Administrtion Team</span>
+                        <h2>Meet Our Highly Qualified and<br />Experienced Members.</h2>
                     </div>
                     <div className="row">
                         {data.map((item, i) => (

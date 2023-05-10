@@ -43,7 +43,7 @@ const SignupOne = () => {
                             {/* Title Column */}
                             <div className="title-column col-lg-6 col-md-12 col-sm-12">
                                 <div className="sec-title light">
-                                    <h2>Sign up for a<br /> free trial lesson<br /> by zoom</h2>
+                                    <h2>Sign up for <br /> free trial lesson</h2>
                                     <div className="text">Get Best Discount for all Courses</div>
                                 </div>
                             </div>

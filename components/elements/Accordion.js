@@ -41,7 +41,7 @@ const Accordion = () => {
                     </div>
                     <div className={isActive.key == 2 ? "acc-content current" : "acc-content"}>
                         <div className="content">
-                            <div className="text">Classes timing will be from 8 am to 8 pm. Student can attend class as many times he / she wants to attend. There is Personal teaching for Grammar and Batch system for Speaking practice in Shital Academy.</div>
+                            <div className="text">Classes timing will be from 8 am to 8 pm. Student can attend class as Much time he / she wants to attend. There is Personal teaching for Grammar and Batch system for Speaking practice in Shital Academy.</div>
                         </div>
                     </div>
                 </li>
@@ -63,7 +63,7 @@ const Accordion = () => {
                     </div>
                     <div className={isActive.key == 4 ? "acc-content current" : "acc-content"}>
                         <div className="content">
-                            <div className="text">Yes! Shital Academy understands the importance of updating your skills & knowledge. Shital Academy offers a range of short courses for graduates and working professionals. Click here to know more.</div>
+                            <div className="text">Yes! Shital Academy understands the importance of updating your skills & knowledge. Shital Academy offers a range of short courses for graduates and working professionals.</div>
                         </div>
                     </div>
                 </li>

@@ -15,8 +15,7 @@ const TestimonialOne = () => {
                             <div className="inner-column">
                                 <div className="sec-title">
                                     <span className="sub-title">Our testimonials</span>
-                                    <h2>What they’re <br />saying about our <br />courses</h2>
-                                    <div className="text">Quisque commodo, magna nec accu man euismod tellus mi ornare enim.</div>
+                                    <h2>What they’re <br />saying about<br />their Experience With us</h2>
                                 </div>
                             </div>
                         </div>

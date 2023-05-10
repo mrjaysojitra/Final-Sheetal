@@ -24,7 +24,7 @@ const FeatureOne = () => {
                         <div className="feature-block col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="800ms">
                             <div className="inner-box ">
                                 <i className="icon flaticon-web-2" />
-                                <h5 className="title">Unlimited <br />Online Courses</h5>
+                                <h5 className="title">Unlimited <br /> Courses</h5>
                             </div>
                         </div>
                         {/* Feature Block */}

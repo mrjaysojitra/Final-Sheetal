@@ -14,12 +14,12 @@ const AboutTwo = () => {
                             <div className="inner-column">
                                 <div className="sec-title">
                                     <h2>Knowledge Is The Way To Success</h2>
-                                    <div className="text">Shital is a Leading Training and Placement Institute that offers Practical-based Professional Training Programs in the field of Web Development, Advanced Excel, Digital Marketing and Software Testing with job placement.</div>
+                                    <div className="text">Shital Academy is a Leading Training and Placement Institute that offers Practical-based Professional Training Programs in the field of Web Development, Advanced Excel, Digital Marketing and Software Testing with job placement.</div>
                                 </div>
                                 <div className="row">
                                     <div className="about-block col-lg-6 col-md-6 col-sm-6 wow fadeInUp">
                                         <div className="inner-box">
-                                            <span className="info-text">Best off Speaking & IELTS program</span>
+                                            <span className="info-text">Best of Speaking & IELTS program</span>
                                             <div className="info-box">
                                                 <div className="thumb"><img src="images/resource/avatar-1.jpg" title="Shital" /></div>
                                                 <h5 className="name">Hardik</h5>
@@ -29,7 +29,7 @@ const AboutTwo = () => {
                                     </div>
                                     <div className="about-block style-two col-lg-6 col-md-6 col-sm-6 wow fadeInRight">
                                         <div className="inner-box">
-                                            <span className="info-text">Best off Full Stack-Web program</span>
+                                            <span className="info-text">Best of Full Stack-Web program</span>
                                             <div className="info-box">
                                                 <div className="thumb"><img src="images/resource/avatar-2.jpg" title="Shital" /></div>
                                                 <h5 className="name">Neha</h5>

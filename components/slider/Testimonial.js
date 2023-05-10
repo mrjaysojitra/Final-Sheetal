@@ -21,7 +21,7 @@ const Testimonial = () => {
         {
             img: "testi-thumb-1.jpg",
             title: "Jaydip Hadiya",
-            desig: "Market Manager",
+            desig: "Student",
             content: "A good institute to learn many bassic grammar and also to improve one's communication skills and fluency in English. A very good institute that I had ever been and experienced. Satisfied with the staff and facilities."
         }
     ];
